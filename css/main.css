@@ -1,0 +1,13 @@
+ul 1 {
+
+list-style-type: none;
+
+}
+
+li{
+
+    color: aqua;
+    font-size: medium;
+    text-align: left;
+    
+}
